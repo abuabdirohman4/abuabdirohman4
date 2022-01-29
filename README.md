@@ -5,7 +5,7 @@ Welcome to My Profile
 Hi, I'm Abu Abdirohman, I'm a Web Developer.
 
 - 🔭 I’m currently working on my company project & my freelance online course project
-- 🌱 I’m currently learning on OOP with PHP, for better understanding about Laravel for my work & self project purpose
+- 🌱 I’m currently learning on OOP & MVC with PHP, for better understanding about Laravel for my work & self project purpose
 - 👯 I’m looking forward to collaborate
 
 #### Languages:
