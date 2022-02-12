@@ -42,9 +42,9 @@ Hi, I'm Abu Abdirohman, I'm a Web Developer.
 <img align="left" alt="GitHub"  height="26"src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" height="26" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 <img align="left" alt="Visual Studio Code"  height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="" height="26" src="https://logodix.com/logo/1741467.jpg">
+<img align="left" height="26" src="https://logodix.com/logo/1741467.jpg">
+<img align="" alt="Figma"  height="26" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" />
 <br/ >
-
 
 #### Stats:  
 
