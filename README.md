@@ -77,3 +77,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Daftar Repo Yang Pernah Ada, tapi Hilang
+- sc-04-react-flask-app 
+- sc-05-react-comp
+- sc-06-react-prawito
+- sc-07-react-routing
+- sc-08-annotation
+- sc-09-bwa-mern
+- sc-10-react-text
+- sc-11-scraping
+-->
