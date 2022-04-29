@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi I'm Abu Abdirohman 👋
 
-Welcome to My Profile
+Welcome to My Repo
 
-Hi, I'm Abu Abdirohman, I'm a Web Developer.
+There is 3 category in my repo :
+1. Fundamental (shortened to fnd)
+   All repo that was result of my learning process about technologies that I need and inteerest to learn.
+2. Study Case (shortened to sc)
+   Not official project, just some project that I made for my portfolio and sharpen the related skill.
+3. Project (shortened to prj)
+   My official project, either on my office or freelance work.
 
 - 🔭 I’m currently working on my company project & my freelance online course project
 - 🌱 I’m currently learning on OOP & MVC with PHP, for better understanding about Laravel for my work & self project purpose
