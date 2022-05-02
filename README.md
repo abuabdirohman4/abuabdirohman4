@@ -1,4 +1,4 @@
-### Hi I'm Abu Abdirohman 👋
+## Hi I'm Abu Abdirohman 👋
 
 Welcome to My Repo
 
@@ -15,12 +15,14 @@ For your information :
 - 🌱 I’m currently learning on OOP & MVC with PHP, for better understanding about Laravel for my work & self project purpose
 - 👯 I’m looking forward to collaborate
 
+
 #### Languages:
 <img align="left" alt="PHP" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" height="26" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="" height="26" alt="HTML5" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/html5.png" />
+</div>
 
 #### Frameworks:
 <img align="left" height="26" alt="Codeigniter" src="https://codeigniter.com/assets/icons/ci-footer.png">
@@ -30,8 +32,9 @@ For your information :
 <img align="left" height="26" alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhRKGtcgQFvvVKAL2ESvFSqqIQJnkZoOdviO9WJPufRKF01P6XcnMc8S_J16kvoy-H9U&usqp=CAU">
 <img align="" height="26" alt="Odoo"  src="https://storage.googleapis.com/datanyze-data/technologies/dc0e4c2910231a89a064766850635e9dbb006903.png">
 <!-- <img align="left" height="26" src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-light.svg"> -->
-
-### Style Sheets
+</div>
+   
+#### Style Sheets
 <img align="left" height="26" alt="CSS" src="https://raw.githubusercontent.com/indramahkota/indramahkota.github.io/master/assets/githubs/brandlogo/css3.png" />
 <!-- <img align="left" height="26" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> -->
 <img align="left" height="26" alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
@@ -43,7 +46,7 @@ For your information :
 <img align="left" height="26" alt="MySQK=L" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png">  
 <img align="left" height="26" alt="MongoDB" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg">
 <img align="left" height="26" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">  
-<br />
+<br/>
 
 #### Tools:
 <img align="left" alt="Terminal"  height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -52,7 +55,7 @@ For your information :
 <img align="left" alt="Visual Studio Code"  height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="26" src="https://logodix.com/logo/1741467.jpg">
 <img align="" alt="Figma"  height="26" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" />
-<br/ >
+
 
 #### Stats:  
 
