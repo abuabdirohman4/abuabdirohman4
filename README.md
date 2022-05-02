@@ -10,6 +10,7 @@ There is 3 category in my repo :
 3. Project (shortened to prj)
    My official project, either on my office or freelance work.
 
+For your information : 
 - 🔭 I’m currently working on my company project & my freelance online course project
 - 🌱 I’m currently learning on OOP & MVC with PHP, for better understanding about Laravel for my work & self project purpose
 - 👯 I’m looking forward to collaborate
