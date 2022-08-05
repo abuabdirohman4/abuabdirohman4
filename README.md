@@ -2,19 +2,18 @@
 
 Welcome to My Repo
 
-There is 3 category in my repo :
-1. Fundamental (shortened to fnd)
-   All repo that was result of my learning process about technologies that I need and inteerest to learn.
-2. Study Case (shortened to sc)
-   Not official project, just some project that I made for my portfolio and sharpen the related skill.
-3. Project (shortened to prj)
-   My official project, either on my office or freelance work.
+I dividing my repo into several categories, depends on technology :
+1. CSS
+2. Database
+3. Javascript
+4. PHP
+5. Project
+6. Python
 
 For your information : 
-- 🔭 I’m currently working on my company project & my freelance online course project
-- 🌱 I’m currently learning on OOP & MVC with PHP, for better understanding about Laravel for my work & self project purpose
+- 🔭 I’m currently working serveral project on my company
+- 🌱 I’m currently learning on Vue & React in a Bootcamp
 - 👯 I’m looking forward to collaborate
-
 
 #### Languages:
 <img align="left" alt="PHP" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
