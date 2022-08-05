@@ -10,6 +10,8 @@ I dividing my repo into several categories, depends on technology :
 5. Project
 6. Python
 
+For quickly preview, you can check on my pin below
+
 For your information : 
 - 🔭 I’m currently working serveral project on my company
 - 🌱 I’m currently learning on Vue & React in a Bootcamp
