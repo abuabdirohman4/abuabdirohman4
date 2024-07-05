@@ -14,7 +14,6 @@ For quickly preview, you can check on my pinned repo below.
 
 For your information : 
 - 🔭 I’m currently working serveral project on my company
-- 🌱 I’m currently learning on Vue & React in a Bootcamp
 - 👯 I’m looking forward to collaborate
 
 #### Languages:
