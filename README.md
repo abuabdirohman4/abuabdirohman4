@@ -1,18 +1,6 @@
 ## Hi I'm Abu Abdirohman 👋
 
 Welcome to My Repo
-
-I dividing my repo into several categories, depends on technology :
-1. CSS
-2. Database
-3. Javascript
-4. PHP
-5. Project
-6. Python
-
-For quickly preview, you can check on my pinned repo below.
-
-For your information : 
 - 🔭 I’m currently working serveral project on my company
 - 👯 I’m looking forward to collaborate
 
